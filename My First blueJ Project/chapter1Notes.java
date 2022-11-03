@@ -28,5 +28,9 @@ public class chapter1Notes
         String word = new String("Luke Olsen");
         Integer number = new Integer(47);
         Double number2 = new Double(43.5);
+        
+        // Difference
+        System.out.println("5+4 = " + (5 + 4)); //this one prints out 9
+        System.out.println("5+4 = " + 5 + 4); //this one prints out 45
     }
 }
